@@ -4,12 +4,12 @@
 
 - <b>About me </b>
   - [click me](https://github.com/juancvergara1/aboutme/blob/main/README.md)
-
-<h2>🔝 Data Science</h2>
+ 
+<h2>🔝 Data Visualization</h2>
 
 <b>Top Projects</b>
-- [Sentiment Analysis Project](https://github.com/juancvergara1/sentiment_analysis)
-- [NLP Project]()
+- [Example 1]()
+- [Example 2]()
 - [Example 3]()
 
 <h2>🔝 Data Analytics</h2>
@@ -19,11 +19,11 @@
 - [Example 2]()
 - [Example 3]()
 
-<h2>🔝 Data Visualization</h2>
+<h2>🔝 Data Science</h2>
 
 <b>Top Projects</b>
-- [Example 1]()
-- [Example 2]()
+- [Sentiment Analysis Project](https://github.com/juancvergara1/sentiment_analysis)
+- [NLP Project]()
 - [Example 3]()
 
 

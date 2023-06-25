@@ -3,7 +3,7 @@
 <h2>👨‍💻 About Juan Camilo:</h2>
 
 - <b>About me </b>
-  - [click me](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [click me](https://github.com/juancvergara1/aboutme/blob/main/README.md)
 
 <h2>🔝 Data Analytic Projects</h2>
 

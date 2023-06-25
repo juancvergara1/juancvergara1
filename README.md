@@ -11,7 +11,7 @@
 - [NLP Project]()
 - [Example 3]()
 
-<h2>🔝 Data Analytic Projects</h2>
+<h2>🔝 Data Analytics Projects</h2>
 
 - [Example 1]()
 - [Example 2]()

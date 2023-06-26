@@ -8,7 +8,7 @@
 <h2>🔝 Data Visualization</h2>
 
 <b>Top Projects</b>
-- [Example 1]()
+- [KPI Performance Dashboards for Effective Teams](https://github.com/juancvergara1/Dataviz/blob/main/README.md)
 - [Example 2]()
 - [Example 3]()
 

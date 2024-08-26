@@ -8,23 +8,20 @@
 <h2>🔝 AI Consultant</h2>
 
 <b>Top Projects</b>
-- [Whatsapp Chatbot Development](https://github.com/juancvergara1/Whatsapp_AI_Chatbot)
-- [Example 2]()
-- [Example 3]()
+- [Whatsapp AI Chatbot](https://github.com/juancvergara1/Whatsapp_AI_Chatbot)
+- [Website AI Chatbot](https://github.com/juancvergara1/web_AI_chatbot/blob/main/README.md)
+
 
 <h2>🔝 Business Ingishts & Data Analyst </h2>
 
 <b>Top Projects</b>
 - [KPI Performance Dashboards for Effective Teams](https://github.com/juancvergara1/Dataviz/blob/main/README.md)
-- [Example 2]()
-- [Example 3]()
 
 <h2>🔝 Data Science</h2>
 
 <b>Top Projects</b>
 - [Sentiment Analysis Project](https://github.com/juancvergara1/sentiment_analysis)
 - [NLP Project]()
-- [Example 3]()
 
 
 <h2> 🤳 Connect with me:</h2>

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan Camilo Vergara <br/><a href="https://www.linkedin.com/in/juan-camilo-vergara-7021b080/">Data Analyst</a>, <a href="https://www.linkedin.com/in/juan-camilo-vergara-7021b080/">Business Ingishts</a>, <a href="https://www.linkedin.com/in/juan-camilo-vergara-7021b080/">Data Scientist</a></h1>
+<h1>Hi, I'm Juan Camilo Vergara <br/><a href="https://www.linkedin.com/in/juan-camilo-vergara-7021b080/">AI Consultant</a>, <a href="https://www.linkedin.com/in/juan-camilo-vergara-7021b080/">Business Ingishts & Data Analyst </a>, <a href="https://www.linkedin.com/in/juan-camilo-vergara-7021b080/">Data Scientist</a></h1>
 
 <h2>👨‍💻 About Juan Camilo:</h2>
 

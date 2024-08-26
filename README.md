@@ -5,17 +5,17 @@
 - <b>About me </b>
   - [click me](https://github.com/juancvergara1/aboutme/blob/main/README.md)
  
-<h2>🔝 Data Visualization</h2>
+<h2>🔝 AI Consultant</h2>
 
 <b>Top Projects</b>
-- [KPI Performance Dashboards for Effective Teams](https://github.com/juancvergara1/Dataviz/blob/main/README.md)
+- [Whatsapp Chatbot Development](https://github.com/juancvergara1/Dataviz/blob/main/README.md)
 - [Example 2]()
 - [Example 3]()
 
-<h2>🔝 Data Analytics</h2>
+<h2>🔝 Business Ingishts & Data Analyst </h2>
 
 <b>Top Projects</b>
-- [Example 1]()
+- [KPI Performance Dashboards for Effective Teams](https://github.com/juancvergara1/Dataviz/blob/main/README.md)
 - [Example 2]()
 - [Example 3]()
 

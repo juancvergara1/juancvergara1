@@ -8,7 +8,7 @@
 <h2>🔝 AI Consultant</h2>
 
 <b>Top Projects</b>
-- [Whatsapp Chatbot Development](https://github.com/juancvergara1/Dataviz/blob/main/README.md)
+- [Whatsapp Chatbot Development](https://github.com/juancvergara1/Whatsapp_AI_Chatbot)
 - [Example 2]()
 - [Example 3]()
 
